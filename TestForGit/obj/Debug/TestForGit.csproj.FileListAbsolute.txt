@@ -1,0 +1,6 @@
+D:\dongminmfc\meSources\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
+D:\dongminmfc\meSources\TestForGit\TestForGit\bin\Debug\TestForGit.exe
+D:\dongminmfc\meSources\TestForGit\TestForGit\bin\Debug\TestForGit.pdb
+D:\dongminmfc\meSources\TestForGit\TestForGit\obj\Debug\TestForGit.csprojResolveAssemblyReference.cache
+D:\dongminmfc\meSources\TestForGit\TestForGit\obj\Debug\TestForGit.exe
+D:\dongminmfc\meSources\TestForGit\TestForGit\obj\Debug\TestForGit.pdb
